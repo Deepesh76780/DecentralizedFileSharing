@@ -1,6 +1,6 @@
 # Decentralized File Sharing Project (D-FILE)
 
-This repository contains the code for a decentralized GDrive project built using Harhat, Smart Contract (Solidity), and React.js. The project aims to provide a secure and decentralized storage solution similar to Google Drive, where users can store and retrieve their files using blockchain technology.
+This repository contains the code for a decentralized D-FILE project built using Harhat, Smart Contract (Solidity), and React.js. The project aims to provide a secure and decentralized storage solution similar to Google Drive, where users can store and retrieve their files using blockchain technology.
 
 |  connect wallet | share Access |
 | ------- | ------- |
