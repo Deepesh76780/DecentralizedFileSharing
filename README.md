@@ -2,6 +2,14 @@
 
 This repository contains the code for a decentralized GDrive project built using Harhat, Smart Contract (Solidity), and React.js. The project aims to provide a secure and decentralized storage solution similar to Google Drive, where users can store and retrieve their files using blockchain technology.
 
+|  connect wallet | share Access |
+| ------- | ------- |
+| ![image](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/0bffa926-08eb-47c1-a3df-080b309dbe89) | ![image](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/62778fcd-c3ca-42eb-9504-3a82e54db16e) |
+
+| Shared Data Access | List of shared data address|
+| ------- | ------- |
+| ![image](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/7290215f-0dfc-483d-ac24-8283030db23e) | ![image](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/c732f5d1-d314-4359-a5ba-91e8b20d9927) |
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -9,7 +17,6 @@ This repository contains the code for a decentralized GDrive project built using
 - [Smart Contract](#smart-contract)
 - [Frontend](#frontend)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
