@@ -11,7 +11,6 @@ const Modal = ({ setModalOpen, contract }) => {
       const addressList = await contract.shareAccess();
       let select = document.querySelector("#selectNumber");
       const options = addressList;
-
       for (let i = 0; i < options.length; i++) {
         let opt = options[i];
         let e1 = document.createElement("option");

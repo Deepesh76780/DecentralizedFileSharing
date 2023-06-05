@@ -55,15 +55,35 @@ function App() {
         <Modal setModalOpen={setModalOpen} contract={contract}></Modal>
       )}
 
-      <div className="App">
-        <h1 style={{ color: "white" }}>Gdrive 3.0</h1>
-        <div class="bg"></div>
-        <div class="bg bg2"></div>
-        <div class="bg bg3"></div>
-
-        <p style={{ color: "white" }}>
-          Account : {account ? account : "Not connected"}
-        </p>
+      <div class="bg"></div>
+      <div class="bg bg2"></div>
+      <div class="bg bg3"></div>
+      <div
+        style={{
+          textAlign: "center",
+          marginTop: "10%",
+          margin: "auto",
+          borderRadius: "10px",
+        }}
+      >
+        <h1 style={{ color: "white", letterSpacing: "10px" }}>D-FILE</h1>
+        <div
+          style={{
+            background: "#9e23d7c6",
+            color: "#383838",
+            borderRadius: "10px",
+            padding: "auto",
+            height: "30px",
+            width: "fit-content",
+            margin: "auto",
+            display: "flex",
+            justifyContent: "center",
+          }}
+        >
+          <p style={{ color: "#ffffffe0" }}>
+            Account : {account ? account : "Not connected"}
+          </p>
+        </div>
         <FileUpload
           account={account}
           provider={provider}

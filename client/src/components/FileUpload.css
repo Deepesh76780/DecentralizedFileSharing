@@ -8,7 +8,7 @@
   
   .choose {
     background-color: initial;
-    background-image: linear-gradient(-180deg, #5aff15, #00b712);
+    background-image: linear-gradient(-180deg, purple, pink);
     border-radius: 6px;
     color: #ffffff;
     padding: 5px 10px;
