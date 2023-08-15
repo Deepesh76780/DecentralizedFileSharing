@@ -4,11 +4,15 @@ This repository contains the code for a decentralized D-FILE project built using
 
 |  connect wallet | share Access |
 | ------- | ------- |
-| ![image](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/0bffa926-08eb-47c1-a3df-080b309dbe89) | ![image](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/62778fcd-c3ca-42eb-9504-3a82e54db16e) |
+|![Screenshot from 2023-06-05 11-14-17](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/22eb2805-80aa-4fc4-be02-c696fe985148)
+| ![Screenshot from 2023-06-05 11-15-32](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/bafe6739-ea36-4d3a-a7c6-b4f26bd5d743)
+|
 
 | Shared Data Access | List of shared data address|
 | ------- | ------- |
-| ![image](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/7290215f-0dfc-483d-ac24-8283030db23e) | ![image](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/c732f5d1-d314-4359-a5ba-91e8b20d9927) |
+| ![Screenshot from 2023-06-05 11-16-21](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/425d7dca-0eda-4bbf-b9fb-0b9df4d3e3fe)
+| ![Screenshot from 2023-06-05 11-17-29](https://github.com/Deepesh76780/DecentralizedFileSharing/assets/99245631/c7488b78-0a94-4f6f-b8ea-41227cff4b2c)
+|
 
 ## Table of Contents
 - [Installation](#installation)
